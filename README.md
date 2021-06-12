@@ -4,7 +4,7 @@ The code for **Progressive Domain Expansion Network for Single Domain Generaliza
 
 ### Dataset
 
-- Download the dataset from [Baidu Cloud Disk](https://pan.baidu.com/s/1kti4P_jEFKKbeqI1g-sP_Q). You will need a code when download the dataset files from Baidu Cloud Dist and the code is b717. 
+- Download the dataset from [Baidu Cloud Disk](https://pan.baidu.com/s/1kti4P_jEFKKbeqI1g-sP_Q). You will need a code when download the dataset files from Baidu Cloud Dist and the code is b717. You can also download the dataset form [Google drive](https://drive.google.com/drive/folders/15eOb1x0ewlIYuQtnjqVD4h4AWVyw-GRq?usp=sharing)
 - Place the dataset files in the path `./data/`
 
 # Train
